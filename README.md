@@ -53,8 +53,12 @@ The dataset includes various features such as:
     •	📈 Engagement_Level – Categorized as Low, Medium, or High
     
     •	🔢 Engagement_Rate – Engagement percentage calculated
+    
+## 📌 4. Report Preview
 
-## 🛠 4. Methodology
+![Screenshot 2025-03-15 113841](https://github.com/user-attachments/assets/803f19ea-f694-4048-9d4d-8af611346492)
+
+## 🛠 5. Methodology
 
 📂 Data Cleaning & Preprocessing
     🔹 Load data into power microsoft query editor.
@@ -69,7 +73,7 @@ The dataset includes various features such as:
 
     🔹 Converted categorical variables (Platform, Content Type, Region) into numerical values for analysis.
 
-  ## 📈 5. Data Analysis & Visualizations
+  ## 📈 6. Data Analysis & Visualizations
 
   #### After doing all these things then i load this data into Power BI Desktop for creating some DAX funnctions like -
   #### 'Count of post', 'Total views', 'Total comments', 'Total shares'
@@ -124,7 +128,7 @@ The dataset includes various features such as:
 
 ![Screenshot 2025-03-14 112147](https://github.com/user-attachments/assets/9387daac-8632-4d71-9d51-56f7927ffe54)
 
-## 📢 6. Key Findings
+## 📢 7. Key Findings
 
     📌 In platform wise 'Tiktok' has the highest engagement-rate compared to youtube, instagram, twitter.
     
@@ -134,7 +138,7 @@ The dataset includes various features such as:
     
         the engagement rate is too high.
 
-## 🎯 7. Conclusion
+## 🎯 8. Conclusion
 
     This analysis provides valuable insights into how different social media strategies impact engagement. 
     
